@@ -2,7 +2,7 @@ Summary:	Adobe Flash Player 10
 Name:		flash-plugin-x86_64
 Version:	10.3.162.29
 Release:	1%{?dist}
-Epoch:		5
+Epoch:		6
 
 Group:		Applications/Internet
 License:	Commercial
